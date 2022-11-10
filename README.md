@@ -18,6 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/117920423/201185706-d08475b0-beb8-43b2-bd06-93c292e9a782.png)
 
+
 SECCIÓN 1–2 Notación científica
 
 ![image](https://user-images.githubusercontent.com/117920423/201185951-87182c7b-7d26-45a6-a376-16d97da19edf.png)
@@ -27,6 +28,7 @@ a) 2*10^-3                 b) 5*10^-4                 c) 2*10^-7
 ![image](https://user-images.githubusercontent.com/117920423/201186190-f6c495c9-8a54-43c1-9b95-fb66fbe2dae2.png)
 
 a) 2*10^-4                  b) 6*10^-1                 c) 0,078
+
 ![image](https://user-images.githubusercontent.com/117920423/201186246-61a149bb-1c2a-444e-a15c-5165b68cbad1.png)
 
 a) 200000                     b) 5400000000          c) 10
